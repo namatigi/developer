@@ -1,16 +1,19 @@
 Shopping List
 
-apples
-bananas
+
+12 red apples
+10 bananas
 yogurt
 milk
-bread
+7 bread
 cereal
-eggs
+15 eggs
 bacon
+coffee
 orange juice
 grapes
 lemons
+pears
 lettuce
 rice
 soup
@@ -21,3 +24,7 @@ mango
 apple juice
 gueva
 grapes
+umeme
+first
+war
+man
