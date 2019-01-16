@@ -1,8 +1,8 @@
 Shopping List
 
 
-12 red apples
-10 bananas
+13 red apples
+11 bananas
 yogurt
 milk
 7 bread
